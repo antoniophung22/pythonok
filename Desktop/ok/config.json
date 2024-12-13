@@ -1,0 +1,569 @@
+[
+  {
+    "Groups": [
+      {
+        "id": 1,
+        "name": "DUC",
+        "data": [
+          {
+            "title": "NHOM 1",
+            "niche": "MUSIC",
+            "profiles": [
+              "TIKTOKNEW1346",
+              "TIKTOKNEW1347",
+              "TIKTOKNEW1348",
+              "TIKTOKNEW1350",
+              "PER-TIKTOKNEW-13",
+              "TIKTOKNEW1603",
+              "TIKTOKNEW1604",
+              "TIKTOKNEW1441",
+              "TIKTOKNEW1133",
+              "TIKTOKNEW1225"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2",
+              "flag"
+            ]
+          },
+          {
+            "title": "NHOM 2",
+            "niche": "MUSIC",
+            "profiles": [
+              "TIKTOKNEW2753",
+              "TIKTOKNEW2755",
+              "TIKTOKNEW2752",
+              "TIKTOKNEW2744",
+              "TIKTOKNEW2746",
+              "PER-TIKTOKNEW-11",
+              "TIKTOKNEW1808",
+              "TIKTOKNEW1611",
+              "TIKTOKNEW1628",
+              "TIKTOKNEW1802"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2",
+              "flag"
+            ]
+          },
+          {
+            "title": "NHOM 3",
+            "niche": "Sneaker",
+            "profiles": [
+              "TIKTOKNEW1857",
+              "TIKTOKNEW1859",
+              "TIKTOKNEW1860",
+              "TIKTOKNEW1852",
+              "TIKTOKNEW1817",
+              "TIKTOKNEW1836",
+              "TIKTOKNEW1845",
+              "TIKTOKNEW1846",
+              "TIKTOKNEW1776",
+              "TIKTOKNEW1854"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2",
+              "flag"
+            ]
+          },
+          {
+            "title": "NHOM 4",
+            "niche": "MEME",
+            "profiles": [
+              "TIKTOKNEW2014",
+              "TIKTOKNEW2017",
+              "TIKTOKNEW2018",
+              "TIKTOKNEW2020",
+              "TIKTOKNEW2026",
+              "TIKTOKNEW2031",
+              "TIKTOKNEW2033",
+              "TIKTOKNEW2035",
+              "TIKTOKNEW2039",
+              "TIKTOKNEW1658"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2",
+              "flag"
+        
+            ]
+          },
+          {
+            "title": "NHOM 5",
+            "niche": "MEME",
+            "profiles": [
+              "TIKTOKNEW2050",
+              "TIKTOKNEW2019",
+              "TIKTOKNEW2058",
+              "TIKTOKNEW2064",
+              "TIKTOKNEW2067",
+              "TIKTOKNEW2066",
+              "TIKTOKNEW2085",
+              "TIKTOKNEW2089",
+              "TIKTOKNEW2086",
+             " BRANDING BUNGALOW"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2",
+              "flag"
+              
+            ]
+          },
+          {
+            "title": "NHOM 6",
+            "niche": "SPORT",
+            "profiles": [
+              "DUC-NHOM6-01",
+              "DUC-NHOM6-02",
+              "DUC-NHOM6-03",
+              "DUC-NHOM6-04",
+              "DUC-NHOM6-05",
+              "DUC-NHOM6-06",
+              "DUC-NHOM6-07",
+              "DUC-NHOM6-08",
+              "DUC-NHOM6-09",
+              "DUC-NHOM6-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 7",
+            "niche": "SPORT",
+            "profiles": [
+              "DUC-NHOM7-01",
+              "DUC-NHOM7-02",
+              "DUC-NHOM7-03",
+              "DUC-NHOM7-04",
+              "DUC-NHOM7-05",
+              "DUC-NHOM7-06",
+              "DUC-NHOM7-07",
+              "DUC-NHOM7-08",
+              "DUC-NHOM7-09",
+              "DUC-NHOM7-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 8",
+            "niche": "CARTOON",
+            "profiles": [
+              "DUC-NHOM8-01",
+              "DUC-NHOM8-02",
+              "DUC-NHOM8-03",
+              "DUC-NHOM8-04",
+              "DUC-NHOM8-05",
+              "DUC-NHOM8-06",
+              "DUC-NHOM8-07",
+              "DUC-NHOM8-08",
+              "DUC-NHOM8-09",
+              "DUC-NHOM8-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 9",
+            "niche": "CARTOON",
+            "profiles": [
+              "DUC-NHOM9-01",
+              "DUC-NHOM9-02",
+              "DUC-NHOM9-03",
+              "DUC-NHOM9-04",
+              "DUC-NHOM9-05",
+              "DUC-NHOM9-06",
+              "DUC-NHOM9-07",
+              "DUC-NHOM9-08",
+              "DUC-NHOM9-09",
+              "DUC-NHOM9-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 10",
+            "niche": "ANIME",
+            "profiles": [
+              "DUC-NHOM10-01",
+              "DUC-NHOM10-02",
+              "DUC-NHOM10-03",
+              "DUC-NHOM10-04",
+              "DUC-NHOM10-05",
+              "DUC-NHOM10-06",
+              "DUC-NHOM10-07",
+              "DUC-NHOM10-08",
+              "DUC-NHOM10-09",
+              "DUC-NHOM10-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 11",
+            "niche": "ANIME",
+            "profiles": [
+              "DUC-NHOM11-01",
+              "DUC-NHOM11-02",
+              "DUC-NHOM11-03",
+              "DUC-NHOM11-04",
+              "DUC-NHOM11-05",
+              "DUC-NHOM11-06",
+              "DUC-NHOM11-07",
+              "DUC-NHOM11-08",
+              "DUC-NHOM11-09",
+              "DUC-NHOM11-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 12",
+            "niche": "MOVIE",
+            "profiles": [
+              "DUC-NHOM12-01",
+              "DUC-NHOM12-02",
+              "DUC-NHOM12-03",
+              "DUC-NHOM12-04",
+              "DUC-NHOM12-05",
+              "DUC-NHOM12-06",
+              "DUC-NHOM12-07",
+              "DUC-NHOM12-08",
+              "DUC-NHOM12-09",
+              "DUC-NHOM12-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 13",
+            "niche": "MOVIE",
+            "profiles": [
+              "DUC-NHOM13-01",
+              "DUC-NHOM13-02",
+              "DUC-NHOM13-03",
+              "DUC-NHOM13-04",
+              "DUC-NHOM13-05",
+              "DUC-NHOM13-06",
+              "DUC-NHOM13-07",
+              "DUC-NHOM13-08",
+              "DUC-NHOM13-09",
+              "DUC-NHOM13-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 14",
+            "niche": "SEASON",
+            "profiles": [
+              "DUC-NHOM14-01",
+              "DUC-NHOM14-02",
+              "DUC-NHOM14-03",
+              "DUC-NHOM14-04",
+              "DUC-NHOM14-05",
+              "DUC-NHOM14-06",
+              "DUC-NHOM14-07",
+              "DUC-NHOM14-08",
+              "DUC-NHOM14-09",
+              "DUC-NHOM14-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 15",
+            "niche": "SEASON",
+            "profiles": [
+              "DUC-NHOM15-01",
+              "DUC-NHOM15-02",
+              "DUC-NHOM15-03",
+              "DUC-NHOM15-04",
+              "DUC-NHOM15-05",
+              "DUC-NHOM15-06",
+              "DUC-NHOM15-07",
+              "DUC-NHOM15-08",
+              "DUC-NHOM15-09",
+              "DUC-NHOM15-10"
+            ],
+            "templates": [
+              "AO 1 MAT 5 MAU",
+              "AO 2 MAT 5 MAU",
+              "SWEATSHIRT 1 MAT 5 MAU",
+              "SWEATSHIRT 2 MAT 5 MAU",
+              "HOODIE 1 MAT 5 MAU",
+              "HOODIE 2 MAT 5 MAU"
+            ]
+          },
+          {
+            "title": "NHOM 16",
+            "niche": "Game",
+            "profiles": [
+              "TIKTOKNEW2295",
+              "TIKTOKNEW2296",
+              "TIKTOKNEW2300",
+              "TIKTOKNEW2137",
+              "TIKTOKNEW2200"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2"
+            ]
+          },
+          {
+            "title": "NHOM 17",
+            "niche": "YOGA",
+            "profiles": [
+              "TIKTOKNEW2204",
+              "TIKTOKNEW2302",
+              "TIKTOKNEW2269",
+              "TIKTOKNEW2252",
+              "TIKTOKNEW2254"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2"
+            ]
+          },
+          {
+            "title": "NHOM 18",
+            "niche": "ANIME LOGO",
+            "profiles": [
+              "TIKTOKNEW2256",
+              "TIKTOKNEW2260",
+              "TIKTOKNEW2261",
+              "TIKTOKNEW2264",
+              "TIKTOKNEW2265"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2"
+            ]
+          },
+          {
+            "title": "NHOM 19",
+            "niche": "FISHING",
+            "profiles": [
+              "TIKTOKNEW2266",
+              "TIKTOKNEW2280",
+              "TIKTOKNEW2281",
+              "TIKTOKNEW2284",
+              "TIKTOKNEW2138"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2"
+            ]
+          },
+          {
+            "title": "NHOM 20",
+            "niche": "FISHING",
+            "profiles": [
+              "TIKTOKNEW2132",
+              "TIKTOKNEW2139",
+              "TIKTOKNEW2159",
+              "TIKTOKNEW2208",
+              "TIKTOKNEW2229"
+            ],
+            "templates": [
+              "ao 1 mat",
+              "ao 2 mat",
+              "sweatshirt 1",
+              "sweatshirt 2",
+              "hoodie 1",
+              "hoodie 2"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Templates": [
+      "ao 1 mat",
+      "ao 2 mat",
+      "sweatshirt 1",
+      "sweatshirt 2",
+      "hoodie 1",
+      "hoodie 2",
+      "flag",
+      "AO 1 MAT 5 MAU",
+      "AO 2 MAT 5 MAU",
+      "SWEATSHIRT 1 MAT 5 MAU",
+      "SWEATSHIRT 2 MAT 5 MAU",
+      "HOODIE 1 MAT 5 MAU",
+      "HOODIE 2 MAT 5 MAU"
+    ]
+  },
+  {
+    "Phrases": [
+      "Perfect Gift for Her",
+      "Vintage Graphic",
+      "Soft Cotton",
+      "Stylish Gift for Her",
+      "Trendy Cotton with Graphic Print",
+      "Unique T-Shirt Gift for Her",
+      "Retro Design",
+      "Soft Cotton Fabric",
+      "Cool Gift for Him",
+      "Streetwear Graphic",
+      "100% Cotton",
+      "Perfect Gift for Him",
+      "HipHop Style Oversized",
+      "Trendy Gift for Him",
+      "Retro Graphic Tee",
+      "Relaxed Fit",
+      "Retro 90s Vintage",
+      "Unisex Streetwear Style",
+      "Vintage 90s Graphic Tee",
+      "Soft Cotton",
+      "Perfect for Retro Vibes",
+      "Classic 90s Retro",
+      "Unisex",
+      "Comfortable Fit",
+      "Graphic Design Cotton",
+      "Bold Style",
+      "Machine Washable",
+      "Unique Design for Everyday Wear",
+      "High-Quality Graphic Design",
+      "Trendy Fit",
+      "Perfect Gift for Fans",
+      "Retro Graphic",
+      "Street Style",
+      "Ultimate Gift for Fans",
+      "HipHop Graphic",
+      "Comfy Cotton",
+      "Vintage Tee for Fans",
+      "Unisex Graphic Design",
+      "Cotton Comfort",
+      "Everyday Graphic Tee",
+      "Cotton and Machine Washable",
+      "Casual, Comfy, and Stylish",
+      "Perfect Everyday Tee",
+      "Weekend Vibes Only",
+      "Lightweight and Breathable",
+      "Essential",
+      "Minimalist Graphic",
+      "HipHop Style",
+      "Modern Style",
+      "Edgy Streetwear",
+      "Pair with Anything",
+      "Unique Graphic Print for Standout Styl",
+      "Premium Comfort",
+      "Cozy & Relaxed",
+      "Comfortable Fit for All-Day Wear",
+      "Sustainable Cotton",
+      "Recycled Cotton Graphic",
+      "Add Your Unique Twist",
+      "Customizable",
+      "Perfect for Active Days and Casual Style",
+      "Great for On-the-Go Looks",
+      "Graphic Tees for Him and Her",
+      "Bold Style for Streetwear Lovers",
+      "Trendy Graphic T-Shirt with Street Style",
+      "Cool and Casual Urban Look",
+      "Customizable Graphic",
+      "Unique Graphic Tee You Can Customize",
+      "Trendy, Viral, and On-Point",
+      "Stylish Tee for Everyday Looks",
+      "Adventure Tee for Outdoor Enthusiasts",
+      "Comfy T-Shirt for Nature Lovers",
+      "Cozy Graphic T-Shirt for Chilly Days",
+      "Bold T-Shirt for Night Out Vibes",
+      "Lightweight, Soft, and Stylish"
+    ]
+  }
+]
